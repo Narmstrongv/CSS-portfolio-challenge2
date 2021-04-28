@@ -4,23 +4,62 @@
     padding: 0;
 }
 
-header-s {
+/*header start*/
+.header-s {
+    padding: 30px 35px;
+    background-color: gray;
+}
+
+.header-s h1 {
+    font-weight: bolder;
+    color: black;
+    margin: 0;
+    font-size: 35px;
+    display: inline;
+}
+
+.header-s nav {
+    float: right;
+    margin: 5px 0;
+}
+
+.header-s nav ul li {
+    display: inline;
+}
+
+.header-s nav ul li a {
+    margin: 0 25px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/*content start*/
+.about-me-s {
 
 }
 
-about-me-s {
+.work-s {
 
 }
 
-work-s {
-
-}
-
-work-s h2 img {
+.work-s h2 img {
     max-width: 100%;
     height: auto;
 }
 
-contact-s {
+.contact-s {
 
 }
+
+/*
+notes to self:
+To-do:
+Make space between content sections
+Insert repo links for work
+
+Minimum:
+*add avatar-photo
+*make app img larger than 'title img'
+*make app img link to deployed repo-site
+*make page layout responsive
+*/
