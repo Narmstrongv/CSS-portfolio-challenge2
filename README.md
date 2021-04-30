@@ -1,8 +1,9 @@
 # CSS-portfolio-challenge2
 
 ## Website
+https://narmstrongv.github.io/CSS-portfolio-challenge2/
 
 ## Description
-This a repository for a portfolio made by Newton A.
+Ran out of time.
 
 ## Screenshot
