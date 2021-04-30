@@ -3,6 +3,6 @@
 ## Website
 
 ## Description
-This a repository for a portfolio made by Newton A.
+Ran out of time.
 
 ## Screenshot
